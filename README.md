@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am Sebastian and I solve complex problems using data, algorithms, and a combination of technical expertise, puzzle-solving skills and intuition. Whether improving existing systems or developing new solutions, I approach every challenge with curiosity, creativity, and precision.
+
+I excel when learning new skills that align with my values and prefer solving problems with sustainable best practices rather than quick fixes. I struggle under extreme time pressure without room for reflection. To perform at my best, I need context, time to think, and constructive feedback.
+
 <!--
 **regeirk/regeirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
